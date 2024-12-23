@@ -11,5 +11,8 @@ public class App
         string s="anu";
         int i=30;
         System.out.println( "Hello World!" );
+
+        // BUG-130
+        System.out.println(i);
     }
 }
