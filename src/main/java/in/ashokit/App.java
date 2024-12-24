@@ -15,4 +15,7 @@ public class App
         // BUG-130
         System.out.println(i);
     }
+
+    // tagging
+    int j=20;
 }
